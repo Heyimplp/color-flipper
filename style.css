@@ -130,14 +130,3 @@ main{
 
 }
 
-.inner-footer .logo-container .p {
-    letter-spacing: .1rem;
-    line-height: 1.25rem;
-    font-family: 'Russo', sans-serif;
-    font-size: 10rem;
-    
-   /* width: 200px;
-    margin-left: 100%;
-    float: right;
-    height: 100%; */
-} 
